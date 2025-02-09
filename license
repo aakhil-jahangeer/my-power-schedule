@@ -1,0 +1,13 @@
+
+---
+
+### **4. Final Steps to Publish on GitHub**
+
+1. **Create a GitHub repository** (e.g., `my-power-scheduler`).
+2. **Clone** the repository to your local machine.
+3. **Add the files** (`scheduler.sh`, `scheduler.ps1`, `README.md`) to the repository.
+4. **Commit and push** the files to GitHub:
+```bash
+git add .
+git commit -m "Initial commit of scheduler scripts for Linux and Windows"
+git push origin main
